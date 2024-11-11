@@ -6,7 +6,6 @@
 </head>
 <body>
     <h1>Welcome to My CV</h1>
-    <p><a href="CV_Corentin_MARQUET.pdf">View My CV (PDF)</a></p>
     <iframe src="CV Corentin MARQUET.pdf" width="100%" height="600px"></iframe>
 </body>
 </html>
